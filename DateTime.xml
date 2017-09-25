@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details xmlns="http://www.dates.com"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.dates.com DateTime.xsd">
+    <name>Joe Bloggs</name>
+    <age>10</age>
+    <dob>2007-07-22</dob>
+    <year>2007</year>
+    <month>--01--</month>
+    <day>---22</day>
+    <time>10:10:00</time>
+    <start>2002-05-20T09:00:00</start>
+    <period>P1Y2M3DT10H30M12.0S</period>
+</details>
